@@ -74,12 +74,12 @@
 	</DIV>
 	<DIV style="top: 27px; left: 500px; position: absolute; z-index: 12;"
 		id="Layer41">
-		<A href="http://www.a-frame-surf.com/wetsuits.html"><IMG
+		<A href="wetsuits.jsp"><IMG
 			src="img/wetsuits.gif" width="82" height="10" border="0"></A>
 	</DIV>
 	<DIV style="top: 49px; left: 674px; position: absolute; z-index: 11;"
 		id="Layer40">
-		<A href="http://www.a-frame-surf.com/threetender.html"><IMG
+		<A href="threetender.jsp"><IMG
 			src="img/threetender.gif" width="132" height="11" border="0"></A>
 	</DIV>
 	<DIV style="top: 26px; left: 597px; position: absolute; z-index: 10;"
@@ -93,7 +93,7 @@
 	</DIV>
 	<DIV style="top: 50px; left: 463px; position: absolute; z-index: 8;"
 		id="Layer37">
-		<A href="http://www.a-frame-surf.com/event.html"><IMG
+		<A href="event.jsp"><IMG
 			src="img/staff&rider.gif" width="110" height="11" border="0"></A>
 	</DIV>
 	<DIV style="top: 27px; left: 695px; position: absolute; z-index: 7;"
@@ -102,7 +102,7 @@
 	</DIV>
 	<DIV style="top: 48px; left: 384px; position: absolute; z-index: 6;"
 		id="Layer35">
-		<A href="http://www.a-frame-surf.com/member.html"><IMG
+		<A href="member.jsp"><IMG
 			src="img/member.gif" width="68" height="12" border="0"></A>
 	</DIV>
 	<DIV style="top: 25px; left: 260px; position: absolute; z-index: 5;"
@@ -112,11 +112,13 @@
 	</DIV>
 	<DIV style="top: 2px; left: 2px; position: absolute; z-index: 4;"
 		id="Layer2">
+		<a href="index.jsp">
 		<IMG src="img/a-frametoplogo.gif" width="198" height="66" border="0">
+		</a>
 	</DIV>
 	<DIV style="top: 76px; left: -55px; position: absolute; z-index: 16;"
 		id="Layer3">
-		<IMG src="img/schoolphoto.gif" width="908" height="642" border="0">
+			<IMG src="img/schoolphoto.gif" width="908" height="642" border="0">
 	</DIV>
 	<DIV style="top: 712px; left: 11px; position: absolute; z-index: 17;"
 		id="Layer4">
