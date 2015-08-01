@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+
+.top{
+	bgcolor:"#f8f8f5";
+	link:"#009900";
+	vlink:"#009900"; 
+	alink:"#cc00cc";
+	style:"top: 6px; 
+	left: 5px;
+	position: absolute; 
+	z-index: 1;
+	width:"20";
+	height:"10";
+	border:"0";
+	float:left;
+	left:5%;
+}
+
+.top2{
+	bgcolor:"#f8f8f5";
+	link:"#009900";
+	vlink:"#009900"; 
+	alink:"#cc00cc";
+	style:"top: 6px; 
+	left: 5px;
+	position: absolute; 
+	z-index: 1;
+	width:"20";
+	height:"10";
+	border:"0";
+	float:right;
+	left:10%;
+	
+}
